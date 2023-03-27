@@ -1,0 +1,4 @@
+[2,"\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Bits and Bytes of DataScience\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: Bits and Bytes of AI\n  image: profile.jpg\n  about:\n    template: jolla\n    links:\n      - icon: twitter\n        text: Twitter\n        href: 'https://twitter.com'\n      - icon: linkedin\n        text: LinkedIn\n        href: 'https://linkedin.com'\n      - icon: github\n        text: Github\n        href: 'https://github.com'\n  \n"]
+[1,"Output created: docs\\index.html\n\nWatching files for changes\n"]
+[1,"Browse at http://localhost:5502/index.html\n"]
