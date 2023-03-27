@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "32c419b2"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "e405d123"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "91d49224"
+  },
+  "index.qmd": {
+    "index.html": "52dbfa8d"
+  },
+  "blog.qmd": {
+    "blog.html": "c318413e"
+  },
+  "posts/firstblog/new_post.qmd": {
+    "new_post.html": "593de4f3"
+  },
+  "posts/firstblog/firstblog.qmd": {
+    "firstblog.html": "64aef22d"
+  },
+  "posts/Fraud_Detection_Blog/Transaction_Anomaly_Detector.ipynb": {
+    "Transaction_Anomaly_Detector.html": "a8722809"
+  },
+  "posts/Handson_Web_Scraping/Handson_Web_Scraping_Notebooks.ipynb": {
+    "Handson_Web_Scraping_Notebooks.html": "e32ac6d8"
+  },
+  "posts/Invoice_Recognizer/Invoice_Recognizer.ipynb": {
+    "Invoice_Recognizer.html": "6e18bd70"
+  }
+}
